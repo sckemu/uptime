@@ -7,7 +7,7 @@ sites:
     url: https://mi.es4.co
   - name: Mail Server
     url: $MAIL_SMTP
-    port: 25
+    port: 587
   - name: Mail Web
     url: $MAIL_URL
 
