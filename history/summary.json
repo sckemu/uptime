@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 464,
-    "timeDay": 451,
-    "timeWeek": 464,
-    "timeMonth": 464,
-    "timeYear": 464,
+    "time": 456,
+    "timeDay": 443,
+    "timeWeek": 456,
+    "timeMonth": 456,
+    "timeYear": 456,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-server",
     "status": "down",
-    "uptime": "0.64%",
-    "uptimeDay": "0.64%",
-    "uptimeWeek": "0.64%",
-    "uptimeMonth": "0.64%",
-    "uptimeYear": "0.64%",
+    "uptime": "0.44%",
+    "uptimeDay": "0.44%",
+    "uptimeWeek": "0.44%",
+    "uptimeMonth": "0.44%",
+    "uptimeYear": "0.44%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-01": 4
+      "2024-02-01": 5
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 715,
-    "timeDay": 715,
-    "timeWeek": 715,
-    "timeMonth": 715,
-    "timeYear": 715,
+    "time": 672,
+    "timeDay": 672,
+    "timeWeek": 672,
+    "timeMonth": 672,
+    "timeYear": 672,
     "dailyMinutesDown": {}
   }
 ]
