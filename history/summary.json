@@ -22,18 +22,19 @@
     "url": "$MAIL_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-web",
-    "status": "up",
-    "uptime": "96.87%",
-    "uptimeDay": "96.87%",
-    "uptimeWeek": "96.87%",
-    "uptimeMonth": "96.87%",
-    "uptimeYear": "96.87%",
+    "status": "down",
+    "uptime": "96.90%",
+    "uptimeDay": "96.90%",
+    "uptimeWeek": "96.90%",
+    "uptimeMonth": "96.90%",
+    "uptimeYear": "96.90%",
     "time": 724,
     "timeDay": 724,
     "timeWeek": 724,
     "timeMonth": 724,
     "timeYear": 724,
     "dailyMinutesDown": {
+      "2024-02-02": 0,
       "2024-02-01": 40
     }
   }
